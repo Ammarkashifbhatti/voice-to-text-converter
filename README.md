@@ -20,6 +20,12 @@ A simple and efficient **Voice to Text Converter** built using **HTML, CSS, and 
 
 ---
 
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/1f44deae-5079-4969-a2cd-b792552afbae)
+
+---
+
 ## 🛠️ Technologies Used
 
 - HTML5
@@ -65,11 +71,15 @@ A simple and efficient **Voice to Text Converter** built using **HTML, CSS, and 
 
 ## 🙌 Contributing
 
- Pull requests are welcome! Feel free to fork the repo and improve the features or UI.
+ Pull requests are welcome! You can fix the repo and improve the features or UI.
+
+ ---
 
 ## 📄 License
 
  This project is open-source and available under the MIT License.
+
+ ---
 
 ## 💬 Connect
 Created with ❤️ by [Ammar Kashif Bhatti](https://github.com/Ammarkashifbhatti) & [Muhammad Ali](https://github.com/sheikh-ali3)
